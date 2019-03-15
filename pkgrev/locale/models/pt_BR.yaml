@@ -1,0 +1,18 @@
+Project:
+  label*:
+    s: Projeto
+    p: Projetos
+
+Version:
+  label*:
+    s: Versão
+    p: Versões
+  Versions:
+    label*:
+      s: Versão
+      p: Versões
+
+File:
+  label*:
+    s: Arquivo
+    p: Arquivos
